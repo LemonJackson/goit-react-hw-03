@@ -1,0 +1,20 @@
+.field {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 5px;
+
+}
+
+.btn {
+    padding: 10px;
+    color: white;
+    background-color: darkgrey;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    font-weight: 600;
+}
+
+.btn:hover {
+    background-color: grey;
+}
